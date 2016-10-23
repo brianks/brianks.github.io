@@ -1,0 +1,137 @@
+{
+	"name":"Guide",
+	"items":[
+		{
+			"id"		: 1,
+			"title"	: "Introduction",
+			"md"		: "index",
+			"description": "This is the guide for using Meteor, a full-stack JavaScript platform for developing modern web and mobile applications"
+		},
+		{
+			"id"		: 2,
+			"title"	: "Code Style",
+			"md"		: "code-style",
+			"description": "Suggested style guidelines for your code"
+		},
+		{
+			"id"		: 3,
+			"title"	: "Application Structure",
+			"md"		: "structure",
+			"description": "How to structure your Meteor app with ES2015 modules, ship code to the client and server, and split your code into multiple apps."
+		},
+		{
+			"id"		: 13,
+			"title"	: "Users and Accounts",
+			"md"		: "accounts",
+			"description": "How to build user login functionality into a Meteor app. Let your users log in with passwords, Facebook, Google, GitHub, and more"
+		},
+		{
+			"id"		: 24,
+			"title"	: "Angular",
+			"md"		: "angular",
+			"description": "The correct place to find details about using Angular with Meteor"
+		},
+		{
+			"id"		: 27,
+			"title"	: "Atmosphere vs. NPM",
+			"md"		: "atmosphere-vs-npm",
+			"description":	"When to use Atmosphere packages and When to use npm packages"
+		},
+		{
+			"id"		: 22,
+			"title"	: "Blaze",
+			"md"		: "blaze",
+			"description": "How to use Blaze, Meteor's frontend rendering system, to build usable and maintainable user interfaces"
+		},
+		{
+			"id"		: 33,
+			"title"	: "Build System",
+			"md"		: "Viewing-the-Data",
+			"description":	"How to use Meteor's build system to compile your app"
+		},
+		{
+			"id"		: 10,
+			"title"	: "Collections and Schemas",
+			"md"		: "collections",
+			"description": "How to define, use, and maintain MongoDB collections in Meteor"
+		},
+		{
+			"id"		: 11,
+			"title"	: "Publications and Data Loading",
+			"md"		: "data-loading",
+			"description": "How and where to load data in your Meteor app using publications and subscriptions"
+		},
+		{
+			"id"		: 41,
+			"title"	: "Deployment and Monitoring",
+			"md"		: "deployment",
+			"description": "How to deploy, run, and monitor your Meteor app in production"
+		},
+		{
+			"id"		: 12,
+			"title"	: "Methods",
+			"md"		: "methods",
+			"description": "How to use Methods, Meteor's remote procedure call system, to write to the database."
+		},
+		{
+			"id"		: 32,
+			"title"	: "Mobile",
+			"md"		: "mobile",
+			"description": "How to build mobile apps using Meteor's Cordova integration."
+		},
+		{
+			"id"		: 23,
+			"title"	: "React",
+			"md"		: "react",
+			"description": "How to use React, Facebook's frontend rendering library, with Meteor."
+		},
+		{
+			"id"		: 23,
+			"title"	: "URLs and Routing",
+			"md"		: "routing",
+			"description": "How to drive your Meteor app's UI using URLs with FlowRouter."
+		},
+		{
+			"id"		: 40,
+			"title"	: "Security",
+			"md"		: "security",
+			"description": "How to secure your Meteor app."
+		},
+		{
+			"id"		: 14,
+			"title"	: "Testing",
+			"md"		: "testing",
+			"description": "How to test your Meteor application"
+		},
+		{
+			"id"		: 21,
+			"title"	: "User Interfaces",
+			"md"		: "ui-ux",
+			"description": "General tips for structuring your UI code, independent of your view rendering technology."
+		},
+		{
+			"id"		: 28,
+			"title"	: "Using Atmosphere Packages",
+			"md"		: "using-atmosphere-packages",
+			"description": "How to use Atmosphere Packages"
+		},
+		{
+			"id"		: 30,
+			"title"	: "Using npm Packages",
+			"md"		: "using-npm-packages",
+			"description": "How to use NPM Packages"
+		},
+		{
+			"id"		: 29,
+			"title"	: "Writing Atmosphere Packages",
+			"md"		: "writing-atmosphere-packages",
+			"description": "How to write Atmosphere Packages"
+		},
+		{
+			"id"		: 31,
+			"title"	: "Writing NPM Packages",
+			"md"		: "writing-npm-packages",
+			"description": "How to write NPM Packages"
+		}
+	]
+}
