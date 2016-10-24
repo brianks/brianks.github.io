@@ -9,9 +9,9 @@
 	<body>
 		<div id="content"></div>
 		<script>
-			var pathname = window.location.hash.substr(7);
+			var pathname = window.location.hash.substr(1);
 			var request = new XMLHttpRequest();
-			request.open('GET', 'https://raw.githubusercontent.com/brianks/brianks.github.io/master/intro/' + pathname+".md", true);
+			request.open('GET', 'https://raw.githubusercontent.com/brianks/brianks.github.io/master/' + pathname+".md", true);
 
 			request.onreadystatechange = function() {
 			  if (this.readyState === 4) {
